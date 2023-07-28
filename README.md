@@ -7,7 +7,7 @@ As a recent graduate from Memorial University, I had planned on a second degree 
 - ⚡ Fun fact: I rock climb inside and outside in my spare time! 🪨 
 
 
-[<LINK=”white”><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/britthanlon10)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/britthanlon10)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/brittany-hanlon-913556155/)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/brittanymarie.h/)  
 
