@@ -1,5 +1,6 @@
-### Hi there 👋, my name is Brittany but you can call me Britt!
-#### I work as a Private Child Care Provider in St. John's, NL.
+### Hi there 👋
+#### My name is Brittany, but you can call me Britt!
+##### I work as a Private Child Care Provider in St. John's, NL.
 As a recent graduate from Memorial University, I had planned on a second degree in Education but then came across Get Coding and decided to take a different approach to teaching. I plan to use my interest in software development and educating children to teach future generations how to code!
 
 - 💻 I’m currently working on my first Get Coding module 
