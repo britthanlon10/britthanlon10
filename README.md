@@ -13,7 +13,11 @@ As a recent graduate from Memorial University, I had planned on a second degree 
 
 [<img src= 'https://www.svgrepo.com/show/217758/instagram.svg' alt='github' height='40'>](https://github.com/britthanlon10) &emsp;  [<img src='https://www.svgrepo.com/show/217760/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/brittany-hanlon-913556155/) &emsp; [<img src='https://www.svgrepo.com/show/450156/github.svg' alt='instagram' height='40'>](https://www.instagram.com/brittanymarie.h/)  
 
+&emsp;
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=britthanlon10)](https://github.com/anuraghazra/github-readme-stats)
+
+&emsp;
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=britthanlon10&show_icons=true)  
 
