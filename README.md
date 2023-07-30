@@ -7,8 +7,9 @@ As a recent graduate from Memorial University, I had planned on a second degree 
 
 - 💻 I’m currently working on my first Get Coding module 
 - 💡 I’m starting to learn HTML, CSS, and JavaScript  
-- ⚡ Fun fact: I rock climb inside and outside in my spare time! 🪨 
-
+- ⚡ Fun fact: I rock climb inside and outside in my spare time! 🪨
+- 📱You can contact me by email at **bmph1997@hotmail.com**, or using the links below!
+  
 &emsp;
 
 [<img src= 'https://www.svgrepo.com/show/217758/instagram.svg' alt='github' height='40'>](https://github.com/britthanlon10) &emsp;  [<img src='https://www.svgrepo.com/show/217760/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/brittany-hanlon-913556155/) &emsp; [<img src='https://www.svgrepo.com/show/450156/github.svg' alt='instagram' height='40'>](https://www.instagram.com/brittanymarie.h/)  
