@@ -6,7 +6,7 @@ As a recent graduate from Memorial University, I had planned on a second degree 
 &emsp;
 
 - 💻 I’m currently working on my first Get Coding module 
-- 💡 I’m starting to learn HTML, CSS, and JavaScript  
+- 💡 Learning HTML, CSS, and JavaScript  
 - ⚡ Fun fact: I rock climb inside and outside in my spare time! 🪨
 - 📱You can contact me by email at **bmph1997@hotmail.com**, or using the links below!
   
